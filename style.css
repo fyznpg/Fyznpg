@@ -44,6 +44,11 @@ Last Update: Feb 22, 2019
 * {
   margin: 0;
   padding: 0; }
+  .paragraph1{
+    color: #000;
+    font-weight: bolder;
+    font-size: xx-large;
+  }
 
 body {
   font-family: "Poppins", sans-serif;
@@ -723,6 +728,10 @@ input:required {
 /* :: 9.0 Footer CSS */
 .footer-content {
   padding: 20px 0; }
+  .footer-area{
+    background: #000000;
+    height: auto;
+  }
   .footer-content .copywrite-text {
     position: relative;
     z-index: 1; }
