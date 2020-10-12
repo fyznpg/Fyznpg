@@ -726,6 +726,12 @@ input:required {
         color: #fc6060; }
 
 /* :: 9.0 Footer CSS */
+.alime-portfolio-area{
+  background-color: #111;
+}
+.follow-area {
+  background-color: #111;
+}
 .footer-content {
   padding: 20px 0; }
   .footer-area{
@@ -1656,4 +1662,13 @@ input:required {
     border: none !important;
     border-radius: 10px; }
 
+
+
 /*# sourceMappingURL=style.css.map */
+.foooter{
+  background-color: #111;
+  color: white;
+}
+.foooter>p{
+  align-items: center;
+}
