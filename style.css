@@ -732,6 +732,16 @@ input:required {
 .follow-area {
   background-color: #111;
 }
+.about-video-area img {
+  -webkit-box-shadow: 3px 0 24px rgba(0, 0, 0, 0.15);
+  box-shadow: 3px 0 24px rgba(0, 0, 0, 0.15);
+  /* width: 150px; */
+  height: 500px;
+  border-radius: 10px;
+}
+.bg-gray{
+  background-color:#111;
+}
 .footer-content {
   padding: 20px 0; }
   .footer-area{
