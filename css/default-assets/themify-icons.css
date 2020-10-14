@@ -146,9 +146,9 @@
 .ti-arrow-right:before {
 	content: "\e628";
 }
-/* .ti-arrow-left:before {
+.ti-arrow-left:before {
 	content: "\e629";
-} */
+}
 .ti-arrow-down:before {
 	content: "\e62a";
 }
